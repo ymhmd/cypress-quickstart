@@ -1,0 +1,7 @@
+{
+  "GithubLoginPage": {
+    "usernameFieldId": "#login_field",
+    "passwordFieldId": "#password",
+    "signinButtonXpath": "[name = 'commit']"
+  }
+}
